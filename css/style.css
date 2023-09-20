@@ -81,11 +81,11 @@ p {
 .container {
 	padding-top: 50px;
 	padding-bottom: 50px;
-	display: grid;
+/*	display: grid;
 	flex-wrap: wrap;
 	grid-template-columns: 600px 600px;
 	resize: both;
-	overflow: auto;
+	overflow: auto;*/
 }
 
 /*.design{
