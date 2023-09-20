@@ -21,9 +21,9 @@ h1 {
 	font-weight: 900;
 	font-style: normal;
 	font-size: 50px;
-	margin: 30px;
+	margin: auto;
 	color: black;
-/*	text-align: center;*/
+	text-align: center;
 
 }
 
