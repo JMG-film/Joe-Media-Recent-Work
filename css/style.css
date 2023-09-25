@@ -88,6 +88,10 @@ p {
 	overflow: auto;*/
 }
 
+.video {
+	border: none;
+}
+
 /*.design{
 	width: 1200px;
 	height: 100px;
