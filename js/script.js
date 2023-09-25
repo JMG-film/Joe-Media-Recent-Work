@@ -17,15 +17,15 @@ $(document).ready(function(){
 
  $(window).mousemove(function(e) {
         cursor.css({
-            top: e.clientY - cursor.height() / 4,
-            left: e.clientX - cursor.width() / 4
+            top: e.clientY - cursor.height() / 2,
+            left: e.clientX - cursor.width() / 2
         });
     });
 
 $(window).mousemove(function(e) {
         cursor.css({
-            top: e.clientY - cursor.height() / 4,
-            left: e.clientX - cursor.width() / 4
+            top: e.clientY - cursor.height() / 2,
+            left: e.clientX - cursor.width() / 2
         });
     });
 
