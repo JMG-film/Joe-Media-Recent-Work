@@ -17,7 +17,7 @@ img {
 }
 
 h1 {
-	font-family: quasimoda, sans-serif;
+	font-family: arial, sans-serif;
 	font-weight: 900;
 	font-style: normal;
 	font-size: 50px;
@@ -58,7 +58,7 @@ p {
 	margin-top: -1%;
 	margin-left: 2px;
 	font-family: quasimoda, sans-serif;
-	font-weight: 800;
+	font-weight: 600;
 	font-style: normal;
 }
 
