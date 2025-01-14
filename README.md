@@ -1,2 +1,2 @@
 # Recent Work
- This is to showcase the most recent work for Joe Media Group for the tail end of 2022 and beginning of 2023
+A showcase of Joe Media Group jobs from the past year and a bit. 
