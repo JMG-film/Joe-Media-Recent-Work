@@ -41,14 +41,14 @@ h2 {
 	color: black;
 	margin-top: 5px;
 	margin-bottom: -2%;
-	font-family: quasimoda, sans-serif;
+	font: arial;
 	font-weight: 550;
 	font-style: normal;
 }
 
 h3{
 	color: red;
-	font-family: quasimoda, sans-serif;
+	font: arial;
 	font-weight: 400;
 	font-style: italic;
 }
@@ -57,7 +57,7 @@ p {
 	color: black;
 	margin-top: -1%;
 	margin-left: 2px;
-	font-family: quasimoda, sans-serif;
+	font: arial;
 	font-weight: 600;
 	font-style: normal;
 }
