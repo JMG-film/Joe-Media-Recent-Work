@@ -95,6 +95,7 @@ p {
 
 .ContentAreaBackground_module_imgContainer {
 	opacity: 100%;
+	border: 200px;
 }
 
 /*.design{
