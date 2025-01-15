@@ -88,6 +88,12 @@ p {
 	overflow: auto;*/
 }
 
+.frameborder {
+	border: 500px;
+	border-color: black;
+	fill: black;
+}
+
 /*#player {
 	border: 500px;
 	border-color: black;
@@ -95,11 +101,11 @@ p {
 }*/
 
 
-.vp-content-area-background {
+/*.vp-content-area-background {
 	border: 500px;
 	border-color: black;
 	fill: black;
-}
+}*/
 	
 
 /*.design{
