@@ -88,17 +88,17 @@ p {
 	overflow: auto;*/
 }
 
-.frameborder {
-	border: 500px;
-	border-color: black;
-	fill: black;
-}
-
-/*#player {
+/*.frameborder {
 	border: 500px;
 	border-color: black;
 	fill: black;
 }*/
+
+#player {
+	border: 500px;
+	border-color: black;
+	fill: black;
+}
 
 
 /*.vp-content-area-background {
