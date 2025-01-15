@@ -93,6 +93,10 @@ p {
 	border-color: black;
 }
 
+.ContentAreaBackground_module_imgContainer {
+	opacity: 100%;
+}
+
 /*.design{
 	width: 1200px;
 	height: 100px;
